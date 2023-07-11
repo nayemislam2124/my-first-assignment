@@ -64,7 +64,7 @@ header{
 .flower-section-1-head-text p{
     font-size:15px;
     font-weight:400;
-    color:#474747;
+    color:#474747c6;
     margin-top:10px;
 }
 .first-flower-section-container{
@@ -167,9 +167,218 @@ header{
     margin-bottom:20px;
 }
 .deal-section-text p{
-    color:#474747;
+    color:#474747c9;
     font-size:12px;
 }
 .deal-section-text button{
     margin-top:20px;
+}
+/* instagram section text styling */
+.instagram-section-text{
+    margin-top:100px;
+    text-align:center;
+}
+.instagram-section-text p{
+    margin-top:20px;
+    color:#474747c9;
+    font-size:13px;
+}
+/* instagram section image styling  */
+.instagram-section-image{
+    width:70%;
+    height:40vh;
+    margin:auto;
+    margin-top:30px;
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+.insta-image-1{
+    width:200px;
+    height:200px;
+    background-image:url("images/Flower 01.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+}
+.insta-image-2{
+    width:200px;
+    height:200px;
+    background-image:url("images/Rectangle 4.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+}
+.insta-image-3{
+    width:200px;
+    height:200px;
+    background-image:url("images/Rectangle 5.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+}
+.insta-image-4{
+    width:200px;
+    height:200px;
+    background-image:url("images/rectangle 6.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+}
+/* shop gallery section styling  */
+.shop-gallery-section{
+    width:90%;
+    height:100vh;
+    /* background:wheat; */
+    margin:auto;
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    
+}
+.gallery-image-1{
+    width:180px;
+    height:180px;
+    background-image:url("images/pngwing 5.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-2{
+    width:180px;
+    height:180px;
+    background-image:url("images/pngwing 6.png");
+    background-position:bottom;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-3{
+    width:180px;
+    height:180px;
+    background-image:url("images/pngwing 7.png");
+    background-position:bottom;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-4{
+    width:180px;
+    height:180px;
+    background-image:url("images/pngwing 8.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-5{
+    width:180px;
+    height:180px;
+    background-image:url("images/pngwing 10.png");
+    background-position:bottom;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-6{
+    width:180px;
+    height:180px;
+    background-image:url("images/rectangle 4.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-7{
+    width:180px;
+    height:180px;
+    background-image:url("images/rectangle 5.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-8{
+    width:180px;
+    height:180px;
+    background-image:url("images/rectangle 6.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.gallery-image-9{
+    width:180px;
+    height:180px;
+    background-image:url("images/flower 01.png");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100px;
+    background-color:white;
+    box-shadow:2px 2px 10px gray;
+    border-radius:40px 0px 40px 0px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+/* second deal section styling */
+.deal-section-2{
+    width:70%;
+    height:40vh;
+    background:url("images/Rectangle 9.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+    margin:auto;
+}
+.deal-section-text-1{
+    text-align:center;
+    position:relative;
+    top:80px;
+}
+.deal-section-text-1 p{
+    font-size:13px;
+    color:#474747c9;
+    margin-top:10px;
+}
+.deal-section-input-field [type="email"] {
+    width:400px;
+    height:35px;
+    border:none;
+    margin-left:100px;
+    margin-top:100px;
+    border-radius:10px;
 }
