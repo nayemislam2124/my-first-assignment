@@ -209,7 +209,7 @@ header{
 .insta-image-1{
     width:200px;
     height:200px;
-    background-image:url("images/Flower 01.png");
+    background-image:url("images/flower 01.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:contain;
@@ -217,7 +217,7 @@ header{
 .insta-image-2{
     width:200px;
     height:200px;
-    background-image:url("images/Rectangle 4.png");
+    background-image:url("images/rectangle 4.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:contain;
@@ -225,7 +225,7 @@ header{
 .insta-image-3{
     width:200px;
     height:200px;
-    background-image:url("images/Rectangle 5.png");
+    background-image:url("images/rectangle 5.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:contain;
@@ -377,7 +377,7 @@ header{
 .deal-section-2{
     width:70%;
     height:40vh;
-    background:url("images/Rectangle 9.png");
+    background:url("images/rectangle 9.png");
     background-repeat:no-repeat;
     background-position:center;
     background-size:contain;
